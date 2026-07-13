@@ -1,6 +1,9 @@
 # A 3D Raycasting Engine in Excel
 ![Ray](https://github.com/user-attachments/assets/93a9d5d4-a987-4be4-aec4-47404612d68d)
 
+Designed open-source real-time 3D game in Excel, animating 4.8k cells | Earned 15+ GitHub stars
+Built math logic for 20+ gameplay physics systems | Implemented live enemy AI & dynamic combat
+
 A high-performance 3D rendering engine built from scratch within Microsoft Excel. Leveraging optimized VBA-driven ray-marching logic, this project transforms a standard spreadsheet grid into a real-time, interactive environment featuring dynamic spatial calculations and first-person navigation.
 
 ## 🎮 Features
